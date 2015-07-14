@@ -1,0 +1,8 @@
+1. Install Oracle Database 11g ex
+2. Extract SQL Developer
+3. Add new connection "+"  with user SYS and pass,  the pass entered in the databas instalation
+4. Execute sql script step by step :
+	4.1 Cretae user(schema) using main connection.  Give user name and password
+	4.2 Grand privileges
+	4.3 Change current schema
+	4.4 Create tables and insert some data
