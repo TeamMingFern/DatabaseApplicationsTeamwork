@@ -1,3 +1,8 @@
+I`ve tried so many times... but nothing. It seems not to be working with my Visual Studio 2015RC
+Thats why i installed Visual Studio 2013 Community. This is working algorith navigating through the
+installation process!!!!
+
+
 1. Download "ODAC" with Oracle Developer Tools for Visual Studio.   32bit version!!!
 
 http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html
@@ -25,15 +30,39 @@ http://www.oracle.com/technetwork/topics/dotnet/downloads/install121021-2389380.
 	3.2 Use Windows Built-in Account
 	3.3 Oracle base and Software location   => leave it by default
 	3.4 Choose Components -> leave it by default
-	3.5 Check "Configure ODP.NET at a machine-wide level" 
+	3.5 Choose Visual Studio 2013 and Visual Studio 2010
+	3.6 Check "Configure ODP.NET at a machine-wide level" 
+	3.7 Connection Alias : This is alias, schema name in oracle. In my case "TeamWork"
+		Port Number: 1521
+		Database Host Name: The name of the computer. In my case "RADKO-LAPTOP".
+		Database Service Name: "XE" 
+		Man can take thisfrom the description of chapter 2 in this file
+	3.8 Do not start any scripts !!!
+	3.9 Finish
+
 Important!!!!!!!!!! 
 If Error  "Reference data is not available for release 12.1 on the operating system distribution Windows XP5.1 " occurs :
 Solution : https://community.oracle.com/thread/3674819?start=0&tstart=0
 
+4. Steps in Visual Studio 2013.
+	4.1 View -> Server Explorer
+	4.2 Tools -> Connect to Database
+	In Add Connection window:
+		1.Data Source:  Oracle Database(ODP.NET,Managed Driver)
+		2.Username and Password :  This is the username(oracle schema name) and pass of the my oracle database. 
+			In my case "teamwork", "teamwork". I created this username and pass with the script file in Problem 1.
+		3.Connect as SYSDBA role - default
+		4.Connection type - default
+		5.Data source name: If everything is OK  i will be able to check my Oracle DB alias. 
+			In my case "TeamWork".
+		6.Tnsnames.ora : Here i have the path to the tnsnames.ora - leave it by default
+		7.Connection name - default
+
+And ...... voila there you have it. The priceless connection is there. Finally!
 
 
-Usefull:
-
+Usefull links:
+http://www.oracle.com/technetwork/topics/dotnet/whatsnew/index.html
 http://www.nikhilgaur.com/2012/06/step-by-step-instructions-to-install.html
 
 
