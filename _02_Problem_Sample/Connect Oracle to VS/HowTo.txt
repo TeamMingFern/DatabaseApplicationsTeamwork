@@ -1,0 +1,39 @@
+1. Download "ODAC" with Oracle Developer Tools for Visual Studio.   32bit version!!!
+
+http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html
+
+2. In C:\oraclexe\app\oracle\product\11.2.0\server\network\ADMIN  -    oracle  server working directory
+	Open file tnsnames.ora
+This is first rows:
+
+XE =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = RADKO-LAPTOP)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = XE)
+    )
+  )
+
+(ADDRESS = (PROTOCOL = TCP)(HOST = RADKO-LAPTOP)(PORT = 1521))  !!!Mandatory
+Where the host is the name of the computer.
+Sevice_name = XE    !!!Mandatory
+
+3.ODAC Installation Instructions :
+http://www.oracle.com/technetwork/topics/dotnet/downloads/install121021-2389380.html
+ 	3.1 Choose language
+	3.2 Use Windows Built-in Account
+	3.3 Oracle base and Software location   => leave it by default
+	3.4 Choose Components -> leave it by default
+	3.5 Check "Configure ODP.NET at a machine-wide level" 
+Important!!!!!!!!!! 
+If Error  "Reference data is not available for release 12.1 on the operating system distribution Windows XP5.1 " occurs :
+Solution : https://community.oracle.com/thread/3674819?start=0&tstart=0
+
+
+
+Usefull:
+
+http://www.nikhilgaur.com/2012/06/step-by-step-instructions-to-install.html
+
+
