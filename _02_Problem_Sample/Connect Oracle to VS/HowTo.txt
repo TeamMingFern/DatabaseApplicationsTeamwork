@@ -60,6 +60,9 @@ Solution : https://community.oracle.com/thread/3674819?start=0&tstart=0
 
 And ...... voila there you have it. The priceless connection is there. Finally!
 
+In every solution that we create and use oracle connection we have to install  from NuGet Package Manager Console :
+	1. Install-Package Oracle.ManagedDataAccess
+	2. Install-Package Oracle.ManagedDataAccess.EntityFramework 
 
 Usefull links:
 http://www.oracle.com/technetwork/topics/dotnet/whatsnew/index.html
