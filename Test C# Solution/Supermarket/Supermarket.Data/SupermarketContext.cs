@@ -1,8 +1,7 @@
 namespace Supermarket.Data
 {
-    using System;
     using System.Data.Entity;
-    using System.Linq;
+    using Migrations;
     using MS_SQL_Server.Models;
 
     public class SupermarketContext : DbContext
@@ -10,6 +9,8 @@ namespace Supermarket.Data
         public SupermarketContext()
             : base("SupermarketContext")
         {
+           Database.SetInitializer(new MigrateDatabaseToLatestVersion<SupermarketContext, 
+               Configuration>());
         }
 
         public virtual DbSet<Measure> Measures { get; set; }
@@ -18,9 +19,4 @@ namespace Supermarket.Data
         public virtual DbSet<Vendor> Vendors { get; set; }
     }
 
-    //public class MyEntity
-    //{
-    //    public int Id { get; set; }
-    //    public string Name { get; set; }
-    //}
 }

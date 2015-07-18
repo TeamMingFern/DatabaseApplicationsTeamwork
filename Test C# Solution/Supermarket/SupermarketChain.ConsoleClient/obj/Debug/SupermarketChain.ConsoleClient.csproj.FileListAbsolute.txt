@@ -16,21 +16,3 @@ C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supe
 C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.pdb
 C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
 C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.pdb
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.pdb
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MS_SQL_Server.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.exe
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Data.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MS_SQL_Server.pdb
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.pdb
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Data.pdb
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.xml
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.csprojResolveAssemblyReference.cache

@@ -83,6 +83,9 @@ Usefull links:
 http://www.oracle.com/technetwork/topics/dotnet/whatsnew/index.html
 http://www.nikhilgaur.com/2012/06/step-by-step-instructions-to-install.html
 
+Change default project in Package Manager Console to Data project of our model
+Enable-Migrations -ContextProjectName "Supermarket.Data" -EnableAutomaticMigrations
+
 
 
 
