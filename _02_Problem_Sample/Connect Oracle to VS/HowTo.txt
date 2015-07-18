@@ -60,12 +60,30 @@ Solution : https://community.oracle.com/thread/3674819?start=0&tstart=0
 
 And ...... voila there you have it. The priceless connection is there. Finally!
 
+Създавам отделни проекти за DB моделите включително Oracle
+1.Създавам проект с име примерно "Oracle"
+2.Десен бутон  + ManageNuget Packages.  Инсталираме EntityFramework 6. Да се отбележи, че това се прави за всеки проект,
+нищо че в другите го има инсталиран. Инсталира се също "12c  Official OPD.NET, Managed Driver"
+както и "12c  Official OPD.NET, Managed Entity Framework Driver".
+По този начин при добавяне на ADO.NET item ще позволява ползването на EntityFramework 6.
+Така се свързваме към Oracle базата. До тук добре.
+3.Когато решим от конзолния проект да ползваме тази база:
+Десен бутон  + ManageNuget Packages. В Installed packages трябва да имаме същите неща като в точка 2.
+След като ги имаме от "App.config" на Oracle project-a копираме connection string-a в "App.config" на конзолния проект. 
+От него "конзолния" създаваме също референция към Oracle project-a. 
+При мен беше това. Усппех!
+
+
 In every solution that we create and use oracle connection we have to install  from NuGet Package Manager Console :
-	1. Install-Package Oracle.ManagedDataAccess
-	2. Install-Package Oracle.ManagedDataAccess.EntityFramework 
+	1. Install-Package Oracle.ManagedDataAccess       ---  Oracle.ManagedData.Access reference
+	2. Install-Package Oracle.ManagedDataAccess.EntityFramework    ---   Oracle.ManagedData.Access.EntityFramework  refence
+
 
 Usefull links:
 http://www.oracle.com/technetwork/topics/dotnet/whatsnew/index.html
 http://www.nikhilgaur.com/2012/06/step-by-step-instructions-to-install.html
+
+
+
 
 
