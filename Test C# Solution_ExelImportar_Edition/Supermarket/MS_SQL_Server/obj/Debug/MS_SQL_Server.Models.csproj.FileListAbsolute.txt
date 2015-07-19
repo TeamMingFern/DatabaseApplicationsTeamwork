@@ -1,0 +1,9 @@
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\MS_SQL_Server\bin\Debug\MS_SQL_Server.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\MS_SQL_Server\bin\Debug\MS_SQL_Server.pdb
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MS_SQL_Server\bin\Debug\MS_SQL_Server.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MS_SQL_Server\bin\Debug\MS_SQL_Server.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.Models.csprojResolveAssemblyReference.cache
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.pdb
