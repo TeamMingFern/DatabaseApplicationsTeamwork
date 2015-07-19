@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="OracleModel.Store" Provider="Oracle.ManagedDataAccess.Client" ProviderManifestToken="11.2" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="OracleModel.Store" Provider="Oracle.ManagedDataAccess.Client" ProviderManifestToken="11.2" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="MEASURES">
           <Key>
             <PropertyRef Name="MEASURE_ID" />
@@ -81,6 +81,10 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Function Name="MEASURES_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
+        <Function Name="PRODUCTSTYPES_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
+        <Function Name="PRODUCTS_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
+        <Function Name="VENDOR_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
         <EntityContainer Name="OracleModelStoreContainer">
           <EntitySet Name="MEASURES" EntityType="Self.MEASURES" Schema="TEAMWORK" store:Type="Tables" />
           <EntitySet Name="PRODUCTS" EntityType="Self.PRODUCTS" Schema="TEAMWORK" store:Type="Tables" />
@@ -99,8 +103,7 @@
             <End Role="PRODUCTS" EntitySet="PRODUCTS" />
           </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="OracleModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -203,6 +206,10 @@
             <End Role="VENDORS" EntitySet="VENDORS" />
             <End Role="PRODUCTS" EntitySet="PRODUCTS" />
           </AssociationSet>
+          <FunctionImport Name="MEASURES_RTN_RECORDSET" />
+          <FunctionImport Name="PRODUCTSTYPES_RTN_RECORDSET" />
+          <FunctionImport Name="PRODUCTS_RTN_RECORDSET" />
+          <FunctionImport Name="VENDOR_RTN_RECORDSET" />
         </EntityContainer>
       </Schema>
     </edmx:ConceptualModels>
@@ -254,6 +261,10 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="MEASURES_RTN_RECORDSET" FunctionName="OracleModel.Store.MEASURES_RTN_RECORDSET" />
+          <FunctionImportMapping FunctionImportName="PRODUCTSTYPES_RTN_RECORDSET" FunctionName="OracleModel.Store.PRODUCTSTYPES_RTN_RECORDSET" />
+          <FunctionImportMapping FunctionImportName="PRODUCTS_RTN_RECORDSET" FunctionName="OracleModel.Store.PRODUCTS_RTN_RECORDSET" />
+          <FunctionImportMapping FunctionImportName="VENDOR_RTN_RECORDSET" FunctionName="OracleModel.Store.VENDOR_RTN_RECORDSET" />
         </EntityContainerMapping>
       </Mapping>
     </edmx:Mappings>

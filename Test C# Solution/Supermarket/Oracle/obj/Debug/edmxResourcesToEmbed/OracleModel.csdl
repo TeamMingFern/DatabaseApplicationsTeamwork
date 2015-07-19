@@ -99,5 +99,9 @@
       <End Role="VENDORS" EntitySet="VENDORS" />
       <End Role="PRODUCTS" EntitySet="PRODUCTS" />
     </AssociationSet>
+    <FunctionImport Name="MEASURES_RTN_RECORDSET" />
+    <FunctionImport Name="PRODUCTSTYPES_RTN_RECORDSET" />
+    <FunctionImport Name="PRODUCTS_RTN_RECORDSET" />
+    <FunctionImport Name="VENDOR_RTN_RECORDSET" />
   </EntityContainer>
 </Schema>

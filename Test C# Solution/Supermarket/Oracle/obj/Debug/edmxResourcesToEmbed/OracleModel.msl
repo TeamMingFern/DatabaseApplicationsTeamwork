@@ -45,5 +45,9 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="MEASURES_RTN_RECORDSET" FunctionName="OracleModel.Store.MEASURES_RTN_RECORDSET" />
+    <FunctionImportMapping FunctionImportName="PRODUCTSTYPES_RTN_RECORDSET" FunctionName="OracleModel.Store.PRODUCTSTYPES_RTN_RECORDSET" />
+    <FunctionImportMapping FunctionImportName="PRODUCTS_RTN_RECORDSET" FunctionName="OracleModel.Store.PRODUCTS_RTN_RECORDSET" />
+    <FunctionImportMapping FunctionImportName="VENDOR_RTN_RECORDSET" FunctionName="OracleModel.Store.VENDOR_RTN_RECORDSET" />
   </EntityContainerMapping>
 </Mapping>

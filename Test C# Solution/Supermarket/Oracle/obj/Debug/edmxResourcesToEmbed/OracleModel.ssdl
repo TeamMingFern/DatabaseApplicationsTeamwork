@@ -76,6 +76,10 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Function Name="MEASURES_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
+  <Function Name="PRODUCTSTYPES_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
+  <Function Name="PRODUCTS_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
+  <Function Name="VENDOR_RTN_RECORDSET" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="TEAMWORK" />
   <EntityContainer Name="OracleModelStoreContainer">
     <EntitySet Name="MEASURES" EntityType="Self.MEASURES" Schema="TEAMWORK" store:Type="Tables" />
     <EntitySet Name="PRODUCTS" EntityType="Self.PRODUCTS" Schema="TEAMWORK" store:Type="Tables" />

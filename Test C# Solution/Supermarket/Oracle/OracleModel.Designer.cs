@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\OracleModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\OracleModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

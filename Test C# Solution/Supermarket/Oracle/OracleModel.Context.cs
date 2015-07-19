@@ -12,6 +12,8 @@ namespace Oracle
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Core.Objects;
+    using System.Linq;
     
     public partial class OracleEntities : DbContext
     {
@@ -29,5 +31,25 @@ namespace Oracle
         public virtual DbSet<PRODUCT> PRODUCTS { get; set; }
         public virtual DbSet<PRODUCTSTYPE> PRODUCTSTYPES { get; set; }
         public virtual DbSet<VENDOR> VENDORS { get; set; }
+    
+        public virtual int MEASURES_RTN_RECORDSET()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("MEASURES_RTN_RECORDSET");
+        }
+    
+        public virtual int PRODUCTSTYPES_RTN_RECORDSET()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("PRODUCTSTYPES_RTN_RECORDSET");
+        }
+    
+        public virtual int PRODUCTS_RTN_RECORDSET()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("PRODUCTS_RTN_RECORDSET");
+        }
+    
+        public virtual int VENDOR_RTN_RECORDSET()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("VENDOR_RTN_RECORDSET");
+        }
     }
 }
