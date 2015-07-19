@@ -1,0 +1,27 @@
+Create Database using SQl script
+
+To start working with VS 2013 and EF 6 
+
+ 1- Install the MySQL for Visual Studio 1.1.1 
+
+	https://cdn.mysql.com/Downloads/MySQLInstaller/mysql-visualstudio-plugin-1.1.1.msi 
+
+
+ 2- Install the Connector/Net 6.8.1 product. 
+
+	http://dev.mysql.com/downloads/connector/net/ 
+
+3.Add new class library
+4.Install EntityFramework 6 for that project
+5.Add ADO.NET item with mySql connection settings:
+	Server Name: localhost
+	User Name: root   --  this is in my case
+	Pass:      tha pass for the roor user in mysql server
+Install-Package EntityFramework -Version 6.1.3 
+
+
+
+
+usefull:
+http://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-entity-framework-winform-data-source.html
+http://forums.mysql.com/read.php?174,601264,601264
