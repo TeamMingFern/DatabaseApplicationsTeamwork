@@ -31,7 +31,7 @@ namespace ZippedExecReportsReader
         }
         public string FilePath { get; private set; }
 
-        public void LoadExelReports()
+        public void LoadExelReports(SupermarketContext context)
         {
             string TempFileName = "clinicImport.xls";
             string TempFolderName = @"\extracted\";
