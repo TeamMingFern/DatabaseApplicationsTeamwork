@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MS_SQL_Server.Models
+namespace MS_SQL_Server
 {
     public class Vendor
     {

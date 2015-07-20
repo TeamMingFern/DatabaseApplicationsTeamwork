@@ -6,7 +6,7 @@ namespace Supermarket.Data.Migrations
     {
         public Configuration()
         {
-            //AutomaticMigrationDataLossAllowed = true;
+            AutomaticMigrationDataLossAllowed = true;
             AutomaticMigrationsEnabled = true;
             ContextKey = "Supermarket.Data.SupermarketContext";
         }

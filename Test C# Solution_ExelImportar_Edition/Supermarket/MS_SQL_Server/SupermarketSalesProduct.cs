@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MS_SQL_Server.Models
+namespace MS_SQL_Server
 {
     public class SupermarketSalesProduct
     {
@@ -15,6 +15,7 @@ namespace MS_SQL_Server.Models
 
         public int Quantity { get; set; }
         public double Price { get; set; }
+        [Key, Column(Order = 2)]
         public DateTime SalesDate { get; set; }        
     }
 }

@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Data.Entity.Migrations;
 using System.Linq;
-using MS_SQL_Server.Models;
+using MS_SQL_Server;
 using Oracle;
 using Supermarket.Data;
-using ZippedExecReportsReader;
+using Supermarket.ImportExel;
+
 
 
 namespace SupermarketChain.ConsoleClient
@@ -15,10 +16,11 @@ namespace SupermarketChain.ConsoleClient
         static void Main(string[] args)
         {
             var msSQLcontext = new SupermarketContext();
-            //msSQLcontext.Vendors.FirstOrDefault();
-            var a = new ZipedExelSqlImporter();
+            msSQLcontext.Vendors.FirstOrDefault();
 
-            a.LoadExelReports();
+            var importExelFiles= new ImportExel();
+            importExelFiles.LoadExelReports(msSQLcontext);
+            
 
             //var count = context.Products.Count();
             //Console.WriteLine(count);
