@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using System.Data.Entity.Migrations;
     using System.Linq;
+    using MS_SQL_Server;
     using MS_SQL_Server.Models;
     using Oracle;
     using Supermarket.Data;

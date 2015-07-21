@@ -68,6 +68,10 @@
       <Project>{5217e47c-dbc2-48f0-aa78-d103bd91fcb4}</Project>
       <Name>MS_SQL_Server.Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MySQLDB\MySQLDB.csproj">
+      <Project>{5a275502-1914-45c9-b027-fec588ec7137}</Project>
+      <Name>MySQLDB</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Oracle\Oracle.csproj">
       <Project>{262B6177-85B2-44AB-898C-9E5A2B32D8C0}</Project>
       <Name>Oracle</Name>
@@ -75,6 +79,10 @@
     <ProjectReference Include="..\Supermarket.Data\Supermarket.Data.csproj">
       <Project>{f522734c-3c0e-4b4e-be71-0aed752ca392}</Project>
       <Name>Supermarket.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Supermarket.ImportExel\Supermarket.ImportExel.csproj">
+      <Project>{95c9c690-ac93-4c81-a0b9-9a3db27d58ee}</Project>
+      <Name>Supermarket.ImportExel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

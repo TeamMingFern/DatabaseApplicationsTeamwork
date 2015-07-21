@@ -22,3 +22,15 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\EntityFramework.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache

@@ -3,14 +3,13 @@ namespace Supermarket.Data.Migrations
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
-    using System.Data.Entity.Migrations.Infrastructure;
     using System.Linq;
 
     internal sealed class Configuration : DbMigrationsConfiguration<Supermarket.Data.SupermarketContext>
     {
         public Configuration()
         {
-            //AutomaticMigrationDataLossAllowed = true;
+            AutomaticMigrationDataLossAllowed = true;
             AutomaticMigrationsEnabled = true;
             ContextKey = "Supermarket.Data.SupermarketContext";
         }

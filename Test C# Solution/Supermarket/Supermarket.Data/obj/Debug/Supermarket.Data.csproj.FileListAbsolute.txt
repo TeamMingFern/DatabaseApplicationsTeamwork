@@ -34,3 +34,7 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Superma
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.xml

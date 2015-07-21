@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="salesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="measure">
+    <Key>
+      <PropertyRef Name="measureId" />
+    </Key>
+    <Property Name="measureId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="measureName" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK_Products_Measures" FromRole="measures" ToRole="products" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="productId" />
+    </Key>
+    <Property Name="productId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="productName" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="vendorId" Type="Int32" Nullable="false" />
+    <Property Name="measureId" Type="Int32" Nullable="false" />
+    <Property Name="productPrice" Type="Single" Nullable="false" />
+    <NavigationProperty Name="measure" Relationship="Self.FK_Products_Measures" FromRole="products" ToRole="measures" />
+    <NavigationProperty Name="vendor" Relationship="Self.FK_Products_Vendors" FromRole="products" ToRole="vendors" />
+    <NavigationProperty Name="sales" Relationship="Self.FK_Sales_Products" FromRole="products" ToRole="sales" />
+  </EntityType>
+  <EntityType Name="sale">
+    <Key>
+      <PropertyRef Name="saleId" />
+    </Key>
+    <Property Name="saleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="saledOn" Type="DateTime" Nullable="false" />
+    <Property Name="supermarketId" Type="Int32" Nullable="false" />
+    <Property Name="productId" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="product" Relationship="Self.FK_Sales_Products" FromRole="sales" ToRole="products" />
+    <NavigationProperty Name="supermarket" Relationship="Self.FK_Sales_Supermarkets" FromRole="sales" ToRole="supermarkets" />
+  </EntityType>
+  <EntityType Name="supermarket">
+    <Key>
+      <PropertyRef Name="supermarketId" />
+    </Key>
+    <Property Name="supermarketId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="supermarketName" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="sales" Relationship="Self.FK_Sales_Supermarkets" FromRole="supermarkets" ToRole="sales" />
+  </EntityType>
+  <EntityType Name="vendor">
+    <Key>
+      <PropertyRef Name="vendorId" />
+    </Key>
+    <Property Name="vendorId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="vendorName" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK_Products_Vendors" FromRole="vendors" ToRole="products" />
+  </EntityType>
+  <Association Name="FK_Products_Measures">
+    <End Role="measures" Type="Self.measure" Multiplicity="1" />
+    <End Role="products" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="measures">
+        <PropertyRef Name="measureId" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="measureId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Products_Vendors">
+    <End Role="vendors" Type="Self.vendor" Multiplicity="1" />
+    <End Role="products" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vendors">
+        <PropertyRef Name="vendorId" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="vendorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Products">
+    <End Role="products" Type="Self.product" Multiplicity="1" />
+    <End Role="sales" Type="Self.sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="productId" />
+      </Principal>
+      <Dependent Role="sales">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Supermarkets">
+    <End Role="supermarkets" Type="Self.supermarket" Multiplicity="1" />
+    <End Role="sales" Type="Self.sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="supermarkets">
+        <PropertyRef Name="supermarketId" />
+      </Principal>
+      <Dependent Role="sales">
+        <PropertyRef Name="supermarketId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="salesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="measures" EntityType="Self.measure" />
+    <EntitySet Name="products" EntityType="Self.product" />
+    <EntitySet Name="sales" EntityType="Self.sale" />
+    <EntitySet Name="supermarkets" EntityType="Self.supermarket" />
+    <EntitySet Name="vendors" EntityType="Self.vendor" />
+    <AssociationSet Name="FK_Products_Measures" Association="Self.FK_Products_Measures">
+      <End Role="measures" EntitySet="measures" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Products_Vendors" Association="Self.FK_Products_Vendors">
+      <End Role="vendors" EntitySet="vendors" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Products" Association="Self.FK_Sales_Products">
+      <End Role="products" EntitySet="products" />
+      <End Role="sales" EntitySet="sales" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Supermarkets" Association="Self.FK_Sales_Supermarkets">
+      <End Role="supermarkets" EntitySet="supermarkets" />
+      <End Role="sales" EntitySet="sales" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -52,3 +52,7 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Superma
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb

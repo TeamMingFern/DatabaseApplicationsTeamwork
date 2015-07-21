@@ -1,0 +1,12 @@
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\MySQLDB.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\MySQLDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\MySQLDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\obj\Debug\MySQLDB.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\obj\Debug\MySQLDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySQLDB\obj\Debug\MySQLDB.pdb

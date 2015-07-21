@@ -1,6 +1,8 @@
-﻿namespace MS_SQL_Server.Models
+﻿using System.Collections.Generic;
+
+namespace MS_SQL_Server
 {
-    using System.Collections.Generic;
+    using Models;
 
     public class Vendor
     {
