@@ -18,7 +18,7 @@ namespace Supermarket.ImportExel
     /// </summary>
     public class ImportExel
     {
-        private const string TempFileName = "salesReports.xls";
+        private const string TempFileName = @"salesReports.xls";
         private const string TempFolderName = @"\extracted\";
         private const string ExcelConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0; Data Source = {0}; Extended Properties=\"Excel 12.0;HDR=YES\"";
         private string filepath;
@@ -34,7 +34,7 @@ namespace Supermarket.ImportExel
             }
             else
             {
-                this.FilePath = "Sample-Sales-Reports.zip";
+                this.FilePath = @"..\..\..\..\Import\Sample-Sales-Reports.zip";
             }
         }
 
@@ -68,9 +68,9 @@ namespace Supermarket.ImportExel
                         entry.ExtractToFile(Path.Combine(tempFolder, TempFileName), true);
                         DataTable excelData = this.ReadExcelData(string.Format("{0}{1}", tempFolder, TempFileName));
                         DataRowCollection arrExelData = excelData.Rows;
-                        string marketName = SupermarketName(arrExelData[0].ItemArray);
+                        string marketName = this.SupermarketName(arrExelData[0].ItemArray);
 
-                        CheckForExistingSupermarket(arrExelData[0].ItemArray, context);
+                        this.CheckForExistingSupermarket(arrExelData[0].ItemArray, context);
 
                         //The loop starts from 2, because of the cell formatting in the excel file, if the loop starts form 0 it will iterate trough array full of empty strings
                         for (int i = 2; i < arrExelData.Count-1; i++)
@@ -90,15 +90,16 @@ namespace Supermarket.ImportExel
         /// <param name="supmarketName">the name of the supermarket</param>
         private void InsertIntoDataBase(object[] rowData, SupermarketContext context,string reportDate, string supmarketName)
         {
-            string[] inputNameType = rowData[0].ToString().Split();
-            string prodType = inputNameType[0];
-            string prodName = inputNameType[1];
+        //    string[] inputNameType = rowData[0].ToString().Split();
+        //    string prodType = inputNameType[0];
+        //    string prodName = inputNameType[1];
+            string prodName = rowData[0].ToString();
             int quantity = int.Parse(rowData[1].ToString());
             float price = float.Parse(rowData[2].ToString());
             DateTime dateReport = DateTime.ParseExact(reportDate, "dd-MMM-yyyy", CultureInfo.InvariantCulture);
 
-            CheckProductType(prodType, context);
-            CheckProduct(prodName,price,context);
+            //this.CheckProductType(prodType, context);
+            this.CheckProduct(prodName,price,context);
 
             var productId = context.Products.Where(p => p.ProductName == prodName).Select(p => p.Id).FirstOrDefault();
             var marketId = context.Supermarkets.Where(s => s.Name == supmarketName).Select(s => s.SupermarketId).FirstOrDefault();
@@ -134,7 +135,7 @@ namespace Supermarket.ImportExel
         /// <param name="context">the Entity Framework connection to the database</param>
         private void CheckForExistingSupermarket(object[] supName, SupermarketContext context)
         {
-            string marketName = SupermarketName(supName);
+            string marketName = this.SupermarketName(supName);
             var existSupName = context.Supermarkets.Where(s => s.Name == marketName).Select(s => s.Name).FirstOrDefault();
 
             if (existSupName == null)

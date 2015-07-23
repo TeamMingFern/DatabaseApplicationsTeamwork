@@ -33,4 +33,3 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bi
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache

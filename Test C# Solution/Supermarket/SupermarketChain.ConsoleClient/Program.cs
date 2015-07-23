@@ -11,6 +11,7 @@
     {
         static void Main(string[] args)
         {
+            
 
             var msSQLcontext = new SupermarketContext();
             msSQLcontext.Vendors.FirstOrDefault();
@@ -19,7 +20,7 @@
             importExelFiles.LoadExelReports(msSQLcontext);
 
             //return;
-           
+
             var msSqLcontext = new SupermarketContext();
             var oracleContext = new OracleEntities();
 
