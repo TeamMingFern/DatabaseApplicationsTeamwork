@@ -1,0 +1,17 @@
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.csprojResolveAssemblyReference.cache
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll.config
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\itextsharp.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\MS_SQL_Server.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Data.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\MS_SQL_Server.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Data.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.pdb

@@ -38,3 +38,19 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermark
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb

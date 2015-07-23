@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLDB", "MySQLDB\MySQLDB.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.ImportExel", "Supermarket.ImportExel\Supermarket.ImportExel.csproj", "{95C9C690-AC93-4C81-A0B9-9A3DB27D58EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Reports", "Supermarket.Reports\Supermarket.Reports.csproj", "{D24FF7E6-98BD-44D3-A6B2-3094EA54E11A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{95C9C690-AC93-4C81-A0B9-9A3DB27D58EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C9C690-AC93-4C81-A0B9-9A3DB27D58EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95C9C690-AC93-4C81-A0B9-9A3DB27D58EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24FF7E6-98BD-44D3-A6B2-3094EA54E11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24FF7E6-98BD-44D3-A6B2-3094EA54E11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24FF7E6-98BD-44D3-A6B2-3094EA54E11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24FF7E6-98BD-44D3-A6B2-3094EA54E11A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

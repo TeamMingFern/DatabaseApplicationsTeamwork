@@ -84,6 +84,10 @@
       <Project>{95c9c690-ac93-4c81-a0b9-9a3db27d58ee}</Project>
       <Name>Supermarket.ImportExel</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Supermarket.Reports\Supermarket.Reports.csproj">
+      <Project>{d24ff7e6-98bd-44d3-a6b2-3094ea54e11a}</Project>
+      <Name>Supermarket.Reports</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

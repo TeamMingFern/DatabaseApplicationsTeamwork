@@ -56,3 +56,28 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermark
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.pdb
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MS_SQL_Server.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.exe
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.exe
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Data.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MS_SQL_Server.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Data.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.csprojResolveAssemblyReference.cache
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\itextsharp.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.pdb
