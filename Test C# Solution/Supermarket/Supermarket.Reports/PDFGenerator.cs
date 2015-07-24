@@ -121,7 +121,8 @@ namespace Supermarket.Reports
                     location = p.Supermarket.Name,
                     product = p.Product.ProductName,
                     quantity = p.Quantity,
-                    price = p.Price
+                    price = p.Price,
+                    measure = p.Product.Measure.MeasureName
                 })
                 .GroupBy(d => d.date);          
 
@@ -136,7 +137,7 @@ namespace Supermarket.Reports
                     sum = item2.quantity * item2.price;
 
                     table.AddCell(item2.product);
-                    table.AddCell(item2.quantity.ToString());                   
+                    table.AddCell(item2.quantity.ToString() + " " + item2.measure);                   
                     table.AddCell(String.Format("{0:0.00}", item2.price));
                     table.AddCell(item2.location);
                     table.AddCell(String.Format("{0:0.00}", sum));
