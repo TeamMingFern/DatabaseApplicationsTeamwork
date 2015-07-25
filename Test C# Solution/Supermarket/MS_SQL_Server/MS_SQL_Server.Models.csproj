@@ -48,6 +48,7 @@
     <Compile Include="Supermarket.cs" />
     <Compile Include="SupermarketSalesProducts.cs" />
     <Compile Include="Vendor.cs" />
+    <Compile Include="VendorExpense.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

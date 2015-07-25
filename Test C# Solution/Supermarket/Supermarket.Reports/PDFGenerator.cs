@@ -29,7 +29,7 @@ namespace Supermarket.Reports
         {
 
             Document doc = new Document(iTextSharp.text.PageSize.A4, 10, 10, 40, 35);
-            PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream("../../salesReports.pdf", FileMode.Create));
+            PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(@"..\..\..\..\Reports\salesReports.pdf", FileMode.Create));
             doc.Open();
             PdfPTable table = new PdfPTable(5);
 

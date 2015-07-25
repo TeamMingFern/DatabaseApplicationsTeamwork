@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MySqlEntities.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.6" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="measures">
+    <Key>
+      <PropertyRef Name="measureId" />
+    </Key>
+    <Property Name="measureId" Type="int" Nullable="false" />
+    <Property Name="measureName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="products">
+    <Key>
+      <PropertyRef Name="productId" />
+    </Key>
+    <Property Name="productId" Type="int" Nullable="false" />
+    <Property Name="productName" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="vendorId" Type="int" Nullable="false" />
+    <Property Name="measureId" Type="int" Nullable="false" />
+    <Property Name="productTypeId" Type="int" Nullable="false" />
+    <Property Name="productPrice" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="producttypes">
+    <Key>
+      <PropertyRef Name="typeId" />
+    </Key>
+    <Property Name="typeId" Type="int" Nullable="false" />
+    <Property Name="typeName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sales">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="saledOn" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="supermarketId" Type="int" Nullable="false" />
+    <Property Name="productId" Type="int" Nullable="false" />
+    <Property Name="quantity" Type="int" Nullable="false" />
+    <Property Name="price" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="supermarkets">
+    <Key>
+      <PropertyRef Name="supermarketId" />
+    </Key>
+    <Property Name="supermarketId" Type="int" Nullable="false" />
+    <Property Name="supermarketName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="vendor_expenses">
+    <Key>
+      <PropertyRef Name="vendorId" />
+      <PropertyRef Name="expenseDate" />
+    </Key>
+    <Property Name="vendorId" Type="int" Nullable="false" />
+    <Property Name="expenseDate" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="total" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="vendors">
+    <Key>
+      <PropertyRef Name="vendorId" />
+    </Key>
+    <Property Name="vendorId" Type="int" Nullable="false" />
+    <Property Name="vendorName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="products_ibfk_1">
+    <End Role="vendors" Type="Self.vendors" Multiplicity="1" />
+    <End Role="products" Type="Self.products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vendors">
+        <PropertyRef Name="vendorId" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="vendorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="products_ibfk_2">
+    <End Role="measures" Type="Self.measures" Multiplicity="1" />
+    <End Role="products" Type="Self.products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="measures">
+        <PropertyRef Name="measureId" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="measureId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="sales_ibfk_1">
+    <End Role="supermarkets" Type="Self.supermarkets" Multiplicity="1" />
+    <End Role="sales" Type="Self.sales" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="supermarkets">
+        <PropertyRef Name="supermarketId" />
+      </Principal>
+      <Dependent Role="sales">
+        <PropertyRef Name="supermarketId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="sales_ibfk_2">
+    <End Role="products" Type="Self.products" Multiplicity="1" />
+    <End Role="sales" Type="Self.sales" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="productId" />
+      </Principal>
+      <Dependent Role="sales">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="vendor_expenses_ibfk_1">
+    <End Role="vendors" Type="Self.vendors" Multiplicity="1" />
+    <End Role="vendor_expenses" Type="Self.vendor_expenses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vendors">
+        <PropertyRef Name="vendorId" />
+      </Principal>
+      <Dependent Role="vendor_expenses">
+        <PropertyRef Name="vendorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MySqlEntitiesStoreContainer">
+    <EntitySet Name="measures" EntityType="Self.measures" Schema="marketsystem" store:Type="Tables" />
+    <EntitySet Name="products" EntityType="Self.products" Schema="marketsystem" store:Type="Tables" />
+    <EntitySet Name="producttypes" EntityType="Self.producttypes" Schema="marketsystem" store:Type="Tables" />
+    <EntitySet Name="sales" EntityType="Self.sales" Schema="marketsystem" store:Type="Tables" />
+    <EntitySet Name="supermarkets" EntityType="Self.supermarkets" Schema="marketsystem" store:Type="Tables" />
+    <EntitySet Name="vendor_expenses" EntityType="Self.vendor_expenses" Schema="marketsystem" store:Type="Tables" />
+    <EntitySet Name="vendors" EntityType="Self.vendors" Schema="marketsystem" store:Type="Tables" />
+    <AssociationSet Name="products_ibfk_1" Association="Self.products_ibfk_1">
+      <End Role="vendors" EntitySet="vendors" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="products_ibfk_2" Association="Self.products_ibfk_2">
+      <End Role="measures" EntitySet="measures" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="sales_ibfk_1" Association="Self.sales_ibfk_1">
+      <End Role="supermarkets" EntitySet="supermarkets" />
+      <End Role="sales" EntitySet="sales" />
+    </AssociationSet>
+    <AssociationSet Name="sales_ibfk_2" Association="Self.sales_ibfk_2">
+      <End Role="products" EntitySet="products" />
+      <End Role="sales" EntitySet="sales" />
+    </AssociationSet>
+    <AssociationSet Name="vendor_expenses_ibfk_1" Association="Self.vendor_expenses_ibfk_1">
+      <End Role="vendors" EntitySet="vendors" />
+      <End Role="vendor_expenses" EntitySet="vendor_expenses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

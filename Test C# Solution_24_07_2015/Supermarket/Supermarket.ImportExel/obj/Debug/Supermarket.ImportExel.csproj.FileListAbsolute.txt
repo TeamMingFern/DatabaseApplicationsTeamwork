@@ -1,0 +1,55 @@
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Hprose.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.exe
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\Hprose.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_ExelImportar_Edition\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Hprose.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.exe
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb

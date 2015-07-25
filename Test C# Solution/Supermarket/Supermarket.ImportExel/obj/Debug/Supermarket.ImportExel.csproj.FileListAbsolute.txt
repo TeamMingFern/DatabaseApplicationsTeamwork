@@ -53,3 +53,4 @@ E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Imp
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Hprose.dll

@@ -1,2 +1,0 @@
-You need to install : https://www.microsoft.com/en-us/download/details.aspx?id=23734
-because of the local db, in which the exel files are extracted.

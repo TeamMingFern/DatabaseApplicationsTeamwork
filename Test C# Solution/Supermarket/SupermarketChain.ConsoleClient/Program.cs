@@ -1,25 +1,34 @@
 ﻿namespace SupermarketChain.ConsoleClient
 {
-
-    using System.Linq;
-    using Oracle;
     using Supermarket.Data;
+    using Engines;
     using Supermarket.ImportExel;
-    using System.Data.Entity;
-    using Supermarket.Reports;
+
 
     class Program
     {
         static void Main(string[] args)
         {
+            var context = new SupermarketContext();
 
 
-            var msSQLcontext = new SupermarketContext();
-            msSQLcontext.Vendors.FirstOrDefault();
+            OracleReplicationEngine.ReplicateOracleToMssql();
+            MsSqlReplicationEngine.ReplicateMssqlToMySql();
 
-            PDFReportGenerator.generatePDFReport();
 
-           
+            var importExelFiles = new ImportExel();
+            importExelFiles.LoadExelReports(context);
+
+            //ImportFromXml.ImportXML();
+
+
+            //var test = context.measures.First().measureName;
+            //Console.WriteLine(test);
+
+
+            //PDFReportGenerator.generatePDFReport();
+
+
 
 
             //return;
@@ -35,9 +44,6 @@
             //OracleDBReplication.UpdateProductsTypesFromOracle(oracleContext, msSqLcontext);
 
             //OracleDBReplication.UpdateProductsFromOracle(oracleContext, msSqLcontext);
-
-
-
 
 
         }

@@ -20,8 +20,9 @@ namespace Supermarket.Data
         public virtual DbSet<Product> Products { get; set; }
         public virtual DbSet<ProductType> ProductTypes { get; set; }
         public virtual DbSet<Vendor> Vendors { get; set; }
-        public virtual DbSet<MS_SQL_Server.Supermarket> Supermarkets { get; set; }
+        public virtual DbSet<Supermarket> Supermarkets { get; set; }
         public virtual DbSet<SupermarketSalesProduct> SupermarketSalesProducts { get; set; }
+        public virtual DbSet<VendorExpense> VendorExpenses { get; set; }
     }
 
 }

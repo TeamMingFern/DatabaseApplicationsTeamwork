@@ -52,9 +52,7 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Superma
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.csprojResolveAssemblyReference.cache
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.exe
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
-C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.pdb
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
@@ -81,3 +79,35 @@ E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChai
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.dll
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\itextsharp.dll
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.exe
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\itextsharp.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySQLDB.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\itextsharp.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySqlModel.pdb

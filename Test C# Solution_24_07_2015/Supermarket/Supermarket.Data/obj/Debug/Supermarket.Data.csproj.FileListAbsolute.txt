@@ -1,0 +1,56 @@
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.pdb
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\MS_SQL_Server.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\EntityFrameworkExtensions.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\bin\Debug\StructureMap.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb

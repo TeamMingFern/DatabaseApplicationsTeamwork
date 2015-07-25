@@ -21,7 +21,7 @@ namespace Supermarket.ImportExel
         private const string TempFileName = @"salesReports.xls";
         private const string TempFolderName = @"\extracted\";
         private const string ExcelConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0; Data Source = {0}; Extended Properties=\"Excel 12.0;HDR=YES\"";
-        private string filepath;
+
         /// <summary>
         /// Initialize the filepath to the zipped file or use the defaul file path.
         /// </summary>
@@ -46,6 +46,8 @@ namespace Supermarket.ImportExel
         /// <param name="context">The context relationship with the Entity framework and the database</param>
         public void LoadExelReports(SupermarketContext context)
         {
+            Console.WriteLine(@"        Loading Exel Reports To MsSqlDB
+------------------------------------------------");
             string tempFolder = string.Format("{0}{1}", Directory.GetCurrentDirectory(), TempFolderName);
             string currentReportDate = string.Empty;
 

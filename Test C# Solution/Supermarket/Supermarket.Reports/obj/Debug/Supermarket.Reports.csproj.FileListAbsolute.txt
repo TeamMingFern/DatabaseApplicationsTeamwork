@@ -33,3 +33,35 @@ C:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Rep
 C:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.pdb
 C:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\itextsharp.dll
 C:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\itextsharp.xml
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll.config
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.pdb
