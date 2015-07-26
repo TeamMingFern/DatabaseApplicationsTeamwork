@@ -3,6 +3,7 @@
     using Supermarket.Data;
     using Engines;
     using Supermarket.ImportExel;
+    using Supermarket.Reports;
 
 
     class Program
@@ -18,6 +19,7 @@
 
             var importExelFiles = new ImportExel();
             importExelFiles.LoadExelReports(context);
+            XMLGenerator.generateXMLReport();
 
             //ImportFromXml.ImportXML();
 

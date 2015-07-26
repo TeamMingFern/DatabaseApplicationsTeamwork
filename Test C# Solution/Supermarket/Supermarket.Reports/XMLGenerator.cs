@@ -75,7 +75,7 @@ namespace Supermarket.Reports
                 vendorTag.AppendChild(sale);
             }
 
-            doc.Save(@"..\..\..\Reports\Sales-by-Vendors-Report.xml");
+            doc.Save(@"..\..\..\..\Reports\Sales-by-Vendors-Report.xml");
         }
     }
 }
