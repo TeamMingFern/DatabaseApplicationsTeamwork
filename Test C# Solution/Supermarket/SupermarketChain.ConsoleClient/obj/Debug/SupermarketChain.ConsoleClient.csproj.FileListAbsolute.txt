@@ -111,3 +111,6 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermark
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySqlModel.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\MySqlModel.pdb
+C:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
+C:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
+C:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\SupermarketChain.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.pdb
