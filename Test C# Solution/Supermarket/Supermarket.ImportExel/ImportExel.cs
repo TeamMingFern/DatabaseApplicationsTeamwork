@@ -123,7 +123,7 @@ namespace Supermarket.ImportExel
                     SupermarketId = marketId,
                     ProductId = productId,
                     Quantity = quantity,
-                    Price = price,
+                    Price = (decimal) price,
                     SalesDate = dateReport
                 });
                 context.SaveChanges();

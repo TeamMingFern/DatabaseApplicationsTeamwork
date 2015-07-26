@@ -20,8 +20,9 @@
             var importExelFiles = new ImportExel();
             importExelFiles.LoadExelReports(context);
             XMLGenerator.generateXMLReport();
+            PDFReportGenerator.generatePDFReport();
 
-            //ImportFromXml.ImportXML();
+            ImportFromXml.ImportXML();
 
 
             //var test = context.measures.First().measureName;

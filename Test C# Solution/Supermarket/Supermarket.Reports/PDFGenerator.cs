@@ -134,7 +134,7 @@ namespace Supermarket.Reports
 
                 foreach (var item2 in item)
                 {
-                    sum = item2.quantity * item2.price;
+                    sum = (double) (item2.quantity * item2.price);
 
                     table.AddCell(item2.product);
                     table.AddCell(item2.quantity.ToString() + " " + item2.measure);                   

@@ -64,7 +64,7 @@ namespace Supermarket.Reports
                     var p = d.price.ToList();
                     for (int i = 0; i < q.Count; i++)
                     {
-                        totalSum += q[i] * p[i];
+                        totalSum += (double) (q[i] * p[i]);
                     }
 
                     summary.SetAttribute("total-sum", String.Format("{0:0.00}", totalSum));

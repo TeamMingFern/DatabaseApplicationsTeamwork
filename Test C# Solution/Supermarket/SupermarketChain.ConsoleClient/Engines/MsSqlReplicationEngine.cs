@@ -20,7 +20,7 @@
             UpdateProductTypesFromMssql();
             UpdateSupermarketsFromMssql();
             UpdateProductsFromMssql();
-            //UpdateSalesFromMssql();
+            UpdateSalesFromMssql();
             UpdateVendorsExpenseFromMssql();
         }
                
@@ -178,6 +178,7 @@
 
             foreach (var sale in sales)
             {
+                var id = sale.Id;
                 var supermarketId = sale.SupermarketId;
                 var productId = sale.ProductId;
                 var saleDate = sale.SalesDate;
@@ -188,10 +189,12 @@
                     s => new
                     {
                         s.supermarketId,
-                        s.productId
+                        s.productId,
+                        s.saledOn
                     },
                     new sale()
                     {
+                        id = id,
                         supermarketId = supermarketId,
                         productId = productId,
                         saledOn = saleDate,

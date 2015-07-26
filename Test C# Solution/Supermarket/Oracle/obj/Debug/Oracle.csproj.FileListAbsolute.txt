@@ -45,3 +45,4 @@ E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debu
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
