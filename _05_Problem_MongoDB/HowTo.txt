@@ -8,12 +8,8 @@ Install NoSQL Manager >> http://www.mongodbmanager.com/download
 		* "cd ../.." - to leave the current directory
 		* "cd Program Files/MongoDB/Server/3.0/bin" - to enter the MongoDB directory
 		* "mongod.exe --dbpath *directory of MongoData folder*" (in my case "mongod.exe --dbpath D:\MongoData") - you launched MongoDB listener
-	- Then again open another CMD and navigate to Program Files/MongoDB/Server/3.0/bin and type "mongo.exe"
-	- Minimize CMD's
+	- Minimize CMD
 	- Open NoSQL Manager
 		* New MongoDB Connection > Test connection to see if everything is good
 		* Connect
-		* Create New Database "supermarket"
-		* Create New Collection "SalesByProductReports"
-//TODO
 
