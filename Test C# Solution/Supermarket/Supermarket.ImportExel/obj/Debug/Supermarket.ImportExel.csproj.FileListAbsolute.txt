@@ -68,3 +68,17 @@ C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermark
 C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
 C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
 C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Hprose.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.exe
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Oracle.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\Supermarket.Data.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\EntityFramework.xml
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb

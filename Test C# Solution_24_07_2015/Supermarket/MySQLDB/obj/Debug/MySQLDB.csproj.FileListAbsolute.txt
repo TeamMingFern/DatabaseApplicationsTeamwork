@@ -21,3 +21,13 @@ E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySQLDB\bin\Deb
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySQLDB\obj\Debug\MySQLDB.csprojResolveAssemblyReference.cache
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySQLDB\obj\Debug\MySQLDB.exe
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySQLDB\obj\Debug\MySQLDB.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\bin\Debug\MySQLDB.exe.config
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\bin\Debug\MySQLDB.exe
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\bin\Debug\MySQLDB.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\bin\Debug\EntityFramework.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\bin\Debug\EntityFramework.xml
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\obj\Debug\MySQLDB.csprojResolveAssemblyReference.cache
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\obj\Debug\MySQLDB.exe
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MySQLDB\obj\Debug\MySQLDB.pdb

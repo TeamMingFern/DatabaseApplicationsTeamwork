@@ -1,0 +1,10 @@
+{
+  "MRU": [
+    "Supermarket.Data",
+    "SupermarketChain.ConsoleClient",
+    "Supermarket.Reports",
+    "MS_SQL_Server.Models",
+    "ImportFromXML"
+  ],
+  "MultiProjectConfigurations": {}
+}

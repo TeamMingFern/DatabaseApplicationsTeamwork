@@ -7,10 +7,11 @@ namespace MS_SQL_Server
     public class Vendor
     {
         private ICollection<Product> products;
-
+        private ICollection<VendorExpense> expenses;
         public Vendor()
         {
             this.Products = new HashSet<Product>();
+            this.expenses = new HashSet<VendorExpense>();
         }
 
         public int Id { get; set; }
@@ -20,6 +21,12 @@ namespace MS_SQL_Server
         {
             get { return this.products; }
             set { this.products = value; }
+        }
+
+        public virtual ICollection<VendorExpense> Expenses
+        {
+            get { return this.expenses; }
+            set { this.expenses = value; }
         }
     }
 }

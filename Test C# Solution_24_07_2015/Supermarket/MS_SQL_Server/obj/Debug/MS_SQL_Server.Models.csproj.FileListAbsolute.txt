@@ -7,3 +7,8 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MS_SQL_Se
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MS_SQL_Server\bin\Debug\MS_SQL_Server.pdb
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MS_SQL_Server\bin\Debug\MS_SQL_Server.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MS_SQL_Server\bin\Debug\MS_SQL_Server.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.Models.csprojResolveAssemblyReference.cache
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\MS_SQL_Server\obj\Debug\MS_SQL_Server.pdb

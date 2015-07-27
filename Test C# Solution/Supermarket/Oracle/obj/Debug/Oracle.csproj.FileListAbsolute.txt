@@ -46,3 +46,15 @@ E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debu
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
 E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.pdb
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
