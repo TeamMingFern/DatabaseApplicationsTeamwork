@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Transactions;
 
 namespace SupermarketChain.ConsoleClient
 {
@@ -14,7 +15,19 @@ namespace SupermarketChain.ConsoleClient
         static void Main(string[] args)
         {
             var context = new SupermarketContext();
-            context.Vendors.FirstOrDefault();
+
+            Console.WriteLine("Extracting data...");
+            var xmlManager = new ImportFromXML("Sample-Vendor-Expenses.xml", context);
+
+            using (TransactionScope tran = new TransactionScope())
+            {
+                Console.WriteLine("Sending data...");
+                xmlManager.TransferData();
+                tran.Complete();
+            }
+
+            Console.WriteLine("Sales reports imported.");
+
 
             //OracleReplicationEngine.ReplicateOracleToMssql();
             //MsSqlReplicationEngine.ReplicateMssqlToMySql();
@@ -27,8 +40,7 @@ namespace SupermarketChain.ConsoleClient
 
             //ImportFromXml.ImportXML();
 
-            ImportFromXML.ImportVendorExpenses(context);
-
+            
             //var test = context.measures.First().measureName;
             //Console.WriteLine(test);
 

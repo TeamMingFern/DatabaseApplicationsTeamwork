@@ -1,0 +1,10 @@
+{
+  "MRU": [
+    "SupermarketChain.ConsoleClient",
+    "Supermarket.Reports",
+    "Supermarket.Data",
+    "MS_SQL_Server.Models",
+    "MySqlModel"
+  ],
+  "MultiProjectConfigurations": {}
+}

@@ -5,70 +5,66 @@
     using System.Xml.Linq;
     using MS_SQL_Server;
     using Data;
-    using System.Transactions;
+    using System.Globalization;
 
-    public static class ImportFromXML
+    public class ImportFromXML
     {
-        public static void ImportVendorExpenses(SupermarketContext context)
+        public ImportFromXML(string expensesImportPath, SupermarketContext context)
         {
-
-            XDocument xmlDoc = XDocument.Load(@"..\..\XML.xml");
-            var vendors = xmlDoc.Elements("vendor");
-
-            foreach (XElement vendor in vendors)
+            this.ExpensesImportPath = expensesImportPath;
+            this.SupermarketContext = context;
+        }
+ 
+        public string ExpensesImportPath { get; set; }
+ 
+        public SupermarketContext SupermarketContext { get; set; }
+ 
+        public void TransferData()
+        {
+            var xmlDoc = XDocument.Load(this.ExpensesImportPath);
+            var vendorNamesList = xmlDoc.Root.Elements("vendor");
+ 
+            foreach (var vendorElement in vendorNamesList)
             {
-                string vendorName = vendor.Attribute("name").Value;
-                var wantedVendor = context.Vendors.FirstOrDefault(v => v.VendorName == vendorName);
-
-                if (wantedVendor == null)
+                ///V/endor  v = null;
+                //if (vendorElement.Attribute("name").Value != null)
+                string vendorName = vendorElement.Attribute("name").Value;
+                if (vendorName == null)
                 {
-                    wantedVendor = AddNewVendor(vendorName, context);
+                    throw new Exception("no vendor name found");
                 }
 
-                AddVendorExpenses(vendor, wantedVendor, context);
-            }
-        }
+                var VendorEntity = SupermarketContext.Vendors.Where(v => v.VendorName == vendorName).FirstOrDefault();
 
-        private static Vendor AddNewVendor(string vendorName, SupermarketContext context)
-        {
-            var newVendor = new Vendor()
-            {
-                VendorName = vendorName
-            };
-
-            context.Vendors.Add(newVendor);
-            return newVendor;
-        }
-
-        private static void AddVendorExpenses(XElement vendor, Vendor wantedVendor, SupermarketContext context)
-        {
-            var expenses = vendor.Descendants("expenses");
-
-            foreach (var expense in expenses)
-            {
-                using (TransactionScope transaction = new TransactionScope())
+                if (VendorEntity == null)
                 {
-                    try
+                    VendorEntity =  new Vendor()
                     {
-                        decimal expenseSum = decimal.Parse(expense.Value);
-                        DateTime expenseDate = DateTime.Parse(expense.Attribute("month").Value);
+                         VendorName = vendorName
+                    };
 
-                        wantedVendor.Expenses.Add(new VendorExpense()
-                        {
-                            Date = expenseDate,
-                            Total = expenseSum
-                        });
-                        context.SaveChanges();
-                        Console.WriteLine(wantedVendor.Id);
-                        transaction.Complete();
-                    }
-                    catch (Exception e)
+                    SupermarketContext.Vendors.Add(VendorEntity);
+                }
+
+                var monthExpenses = vendorElement.Elements("expenses");
+                foreach (var monthExpense in monthExpenses)
+                {
+                    var dt = monthExpense.Attribute("month").Value;
+                    var parsedDatetime = DateTime.Parse(dt);
+                    var expense = monthExpense.Value;      
+         
+                    var vendorExpense = new VendorExpense()
                     {
-                        Console.WriteLine(e.Message);
-                        transaction.Dispose();
-                    }
+                        VendorId = VendorEntity.Id,
+                        Date = parsedDatetime,
+                        Total = decimal.Parse(expense, CultureInfo.InvariantCulture)
+                    };
+ 
+                    this.SupermarketContext.VendorExpenses.Add(vendorExpense);
+                    this.SupermarketContext.SaveChanges();
                 }
             }
         }
-    }
+    }        
+    
 }
