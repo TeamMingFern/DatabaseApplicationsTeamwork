@@ -26,6 +26,15 @@ namespace Supermarket.ImportExel
         /// Initialize the filepath to the zipped file or use the defaul file path.
         /// </summary>
         /// <param name="filepath">string - The path to the file</param>
+        /// 
+        /// 
+        //public static void Run(string filePath = null)
+        //{
+        //    var importExelFiles = new ImportExel();
+        //    var context = new SupermarketContext();
+        //    importExelFiles.LoadExelReports(context);
+        //}
+
         public ImportExel(string filepath = null)
         {
             if (filepath != null)
@@ -46,8 +55,11 @@ namespace Supermarket.ImportExel
         /// <param name="context">The context relationship with the Entity framework and the database</param>
         public void LoadExelReports(SupermarketContext context)
         {
+            DirectoryInfo directoryInfo = new DirectoryInfo(this.FilePath);
             Console.WriteLine(@"        Loading Exel Reports To MsSqlDB
 ------------------------------------------------");
+            Console.WriteLine("Extracting data from file  {0}", directoryInfo.FullName);
+
             string tempFolder = string.Format("{0}{1}", Directory.GetCurrentDirectory(), TempFolderName);
             string currentReportDate = string.Empty;
 
@@ -82,6 +94,9 @@ namespace Supermarket.ImportExel
                     }
                 }
             }
+
+            Console.WriteLine("Zip excel reports imported.");
+
         }
         /// <summary>
         /// Insert the content of the excel files into the database.

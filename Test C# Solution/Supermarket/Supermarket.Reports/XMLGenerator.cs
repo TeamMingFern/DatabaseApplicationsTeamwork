@@ -9,11 +9,14 @@ using System.Xml;
 
 namespace Supermarket.Reports
 {
+    using System.IO;
+
     public class XMLGenerator
     {
-        public static void generateXMLReport()
+        public static void GenerateXMLReport()
         {
             var msSQLcontext = new SupermarketContext();
+            string filePath = @"..\..\..\..\Reports\Sales-by-Vendors-Report.xml";
             msSQLcontext.Vendors.FirstOrDefault();
 
             var data = msSQLcontext.SupermarketSalesProducts
@@ -75,7 +78,11 @@ namespace Supermarket.Reports
                 vendorTag.AppendChild(sale);
             }
 
-            doc.Save(@"..\..\..\..\Reports\Sales-by-Vendors-Report.xml");
+            doc.Save(filePath);
+            DirectoryInfo directoryInfo = new DirectoryInfo(filePath);
+            Console.WriteLine("XML report generated.");
+            Console.WriteLine("File:  {0}", directoryInfo.FullName);
+
         }
     }
 }

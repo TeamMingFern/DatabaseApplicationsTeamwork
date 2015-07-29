@@ -12,7 +12,8 @@ namespace Supermarket.Data
         public SupermarketContext()
             : base("SupermarketContext")
         {
-            Database.SetInitializer(new MigrateDatabaseToLatestVersion<SupermarketContext,Configuration>());
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<SupermarketContext,
+               Configuration>());
         }
 
         public virtual DbSet<Measure> Measures { get; set; }

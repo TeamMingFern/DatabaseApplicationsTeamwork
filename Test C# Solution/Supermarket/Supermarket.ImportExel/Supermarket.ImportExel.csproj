@@ -37,6 +37,18 @@
     <Reference Include="Hprose">
       <HintPath>..\packages\Hprose.1.4.0\lib\net45\Hprose.dll</HintPath>
     </Reference>
+    <Reference Include="MongoDB.Bson, Version=2.0.1.27, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Bson.2.0.1\lib\net45\MongoDB.Bson.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver, Version=2.0.1.27, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.2.0.1\lib\net45\MongoDB.Driver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver.Core, Version=2.0.1.27, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.Core.2.0.1\lib\net45\MongoDB.Driver.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
@@ -50,15 +62,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ImportExel.cs" />
+    <Compile Include="ImportFromXML.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MS_SQL_Server\MS_SQL_Server.Models.csproj">
+    <ProjectReference Include="..\Supermarket.Model\Supermarket.Model.csproj">
       <Project>{5217e47c-dbc2-48f0-aa78-d103bd91fcb4}</Project>
-      <Name>MS_SQL_Server.Models</Name>
+      <Name>Supermarket.Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\Oracle\Oracle.csproj">
       <Project>{262b6177-85b2-44ab-898c-9e5a2b32d8c0}</Project>

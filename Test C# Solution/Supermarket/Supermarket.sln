@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS_SQL_Server.Models", "MS_SQL_Server\MS_SQL_Server.Models.csproj", "{5217E47C-DBC2-48F0-AA78-D103BD91FCB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Model", "Supermarket.Model\Supermarket.Model.csproj", "{5217E47C-DBC2-48F0-AA78-D103BD91FCB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Data", "Supermarket.Data\Supermarket.Data.csproj", "{F522734C-3C0E-4B4E-BE71-0AED752CA392}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketChain.ConsoleClient", "SupermarketChain.ConsoleClient\SupermarketChain.ConsoleClient.csproj", "{760E7103-756C-4928-9837-68A5503BBC2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.ConsoleClient", "Supermarket.ConsoleClient\Supermarket.ConsoleClient.csproj", "{760E7103-756C-4928-9837-68A5503BBC2D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oracle", "Oracle\Oracle.csproj", "{262B6177-85B2-44AB-898C-9E5A2B32D8C0}"
 EndProject

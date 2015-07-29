@@ -18,18 +18,19 @@ namespace Supermarket.Reports
 {
     public class PDFReportGenerator
     {
-        // to generate the report call the generatePDFReport static method.
+        // to generate the report call the GeneratePDFReport static method.
         // The pdf file will be generated in the SupermarketChain.ConsoleClient folder
 
         // TODO measures are missing 
         // TODO code refactoring to limitr repeated chunks
 
         
-        public static void generatePDFReport()
+        public static void GeneratePDFReport()
         {
 
             Document doc = new Document(iTextSharp.text.PageSize.A4, 10, 10, 40, 35);
-            PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(@"..\..\..\..\Reports\salesReports.pdf", FileMode.Create));
+            string filePath = @"..\..\..\..\Reports\salesReports.pdf";
+            PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(filePath, FileMode.Create));
             doc.Open();
             PdfPTable table = new PdfPTable(5);
 
@@ -41,7 +42,7 @@ namespace Supermarket.Reports
             header.HorizontalAlignment = 1;
             table.AddCell(header);
            
-            double totalSales = pourReportData(table);
+            double totalSales = PourReportData(table);
 
             PdfPCell totalSum = new PdfPCell(new Phrase("Grand total:"));
             totalSum.Colspan = 4;
@@ -57,9 +58,13 @@ namespace Supermarket.Reports
 
             doc.Add(table);
             doc.Close();
+            
+            DirectoryInfo directoryInfo = new DirectoryInfo(filePath);
+            Console.WriteLine("Pdf report generated.");
+            Console.WriteLine("File:  {0}", directoryInfo.FullName);
         }
 
-        private static void footerGeneration(PdfPTable table, double sum, DateTime d)
+        private static void FooterGeneration(PdfPTable table, double sum, DateTime d)
         {
             string date = d.Date.ToString("dd-MMM-yyyy", CultureInfo.InvariantCulture);
             PdfPCell footerDate = new PdfPCell(new Phrase("Total sum for " + date));
@@ -72,7 +77,7 @@ namespace Supermarket.Reports
             table.AddCell(fullSum);
         }
 
-        private static void headerGeneration(PdfPTable table, DateTime d)
+        private static void HeaderGeneration(PdfPTable table, DateTime d)
         {
             string date = d.Date.ToString("dd-MMM-yyyy", CultureInfo.InvariantCulture);
             Font verdana2 = FontFactory.GetFont("Verdana", 12, Font.BOLD);
@@ -106,7 +111,7 @@ namespace Supermarket.Reports
             table.AddCell(sum);
         }
 
-        private static double pourReportData(PdfPTable table)
+        private static double PourReportData(PdfPTable table)
         {
             double totalSum = 0;
             double grandTotal = 0;
@@ -128,7 +133,7 @@ namespace Supermarket.Reports
 
             foreach (var item in salesReport)
             {
-                headerGeneration(table, item.Key);
+                HeaderGeneration(table, item.Key);
 
                 double sum = 0;
 
@@ -145,7 +150,7 @@ namespace Supermarket.Reports
                     totalSum += sum;
                 }
               
-                footerGeneration(table, totalSum, item.Key);
+                FooterGeneration(table, totalSum, item.Key);
 
                 grandTotal += totalSum;
                 totalSum = 0;

@@ -57,10 +57,22 @@
     <Reference Include="itextsharp">
       <HintPath>..\..\..\..\..\softuni\C#\itextsharp.dll</HintPath>
     </Reference>
+    <Reference Include="MongoDB.Bson, Version=2.0.1.27, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Bson.2.0.1\lib\net45\MongoDB.Bson.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver, Version=2.0.1.27, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.2.0.1\lib\net45\MongoDB.Driver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver.Core, Version=2.0.1.27, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.Core.2.0.1\lib\net45\MongoDB.Driver.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -68,15 +80,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ImportFromXML.cs" />
+    <Compile Include="ImportJSONtoMongoDB.cs" />
     <Compile Include="PDFGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XMLGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MS_SQL_Server\MS_SQL_Server.Models.csproj">
+    <ProjectReference Include="..\Supermarket.Model\Supermarket.Model.csproj">
       <Project>{5217e47c-dbc2-48f0-aa78-d103bd91fcb4}</Project>
-      <Name>MS_SQL_Server.Models</Name>
+      <Name>Supermarket.Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\Supermarket.Data\Supermarket.Data.csproj">
       <Project>{f522734c-3c0e-4b4e-be71-0aed752ca392}</Project>
@@ -90,9 +102,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="XML.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

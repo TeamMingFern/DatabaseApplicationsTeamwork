@@ -1,1 +1,0 @@
-D:\Programming\Github\DatabaseApplicationsTeamwork\Test C# Solution_24_07_2015\Supermarket\ImportFromXML\bin\Debug\ImportFromXML.exe.config
