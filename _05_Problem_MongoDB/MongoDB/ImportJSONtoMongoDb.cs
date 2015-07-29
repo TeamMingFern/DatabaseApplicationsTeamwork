@@ -19,7 +19,7 @@
         public const string MongoDbName = "supermarket";
 
         public const string JsonReportPath =
-            @"C:\Users\user\Desktop\db.Apps\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MongoDB\JSONReports\";
+            @"../../JSONReports";
 
         public static void Main()
         {
