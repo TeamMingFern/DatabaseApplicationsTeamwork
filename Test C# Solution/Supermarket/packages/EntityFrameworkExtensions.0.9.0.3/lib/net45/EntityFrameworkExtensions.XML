@@ -1,0 +1,874 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EntityFrameworkExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:System.Data.Entity.Extensions.AccessEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.AccessEventArgs.#ctor(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="result"></param>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.AccessEventArgs._result">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.AccessEventArgs.Result">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.Repository.ActionEventArgs`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.ActionEventArgs`1.#ctor(`0)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.Repository.ActionEventArgs`1._entity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.ActionEventArgs`1.Entity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.Repository.FilterEventArgs`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.FilterEventArgs`1.#ctor(`0,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+            <param name="result"></param>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.Repository.FilterEventArgs`1._entity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.Repository.FilterEventArgs`1._result">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.FilterEventArgs`1.Entity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.FilterEventArgs`1.Result">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.Repository.IDbContextRepository`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.Repository.IRepository`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Create">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Create``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TDerivedEntity"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Insert(`0)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.GetByKey(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="keyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.GetByKeys(System.Object[])">
+            <summary>
+            
+            </summary>
+            <param name="keyValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Get">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Get(System.Func{`0,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Get(System.Func{System.Collections.Generic.IEnumerable{`0},System.Linq.IOrderedEnumerable{`0}})">
+            <summary>
+            
+            </summary>
+            <param name="order"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Get(System.Func{`0,System.Boolean},System.Func{System.Collections.Generic.IEnumerable{`0},System.Linq.IOrderedEnumerable{`0}})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <param name="order"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Update(`0)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Delete(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="keyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Delete(System.Object[])">
+            <summary>
+            
+            </summary>
+            <param name="keyValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.IRepository`1.Delete(`0)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Created">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.CanInsert">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Inserting">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Inserted">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.CanRead">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Filter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.CanUpdate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Updating">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Updated">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.CanDelete">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Deleting">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.IRepository`1.Deleted">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.IDbContextRepository`1.UnitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.IDbContextRepository`1.Context">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.IDbContextRepository`1.Set">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWorkFactory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWorkFactory.Create">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory.#ctor(System.Func{System.Data.Entity.DbContext})">
+            <summary>
+            
+            </summary>
+            <param name="contextDelegate"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory.Dispose">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory.Dispose(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory.Finalize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory._contextDelegate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory._lock">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory.SetDbContext(System.Func{System.Data.Entity.DbContext})">
+            <summary>
+            
+            </summary>
+            <param name="contextDelegate"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWorkFactory.Create">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.CommitEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.CommitEventArgs.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.AccessEventHandler">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.Repository.ActionEventHandler`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.Repository.FilterEventHandler`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.CommitEventHandler">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.AccessException">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.AccessException.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.AccessException.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.Repository.DbContextRepository`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Dispose">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Dispose(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Finalize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.Repository.DbContextRepository`1._unitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.Repository.DbContextRepository`1._context">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.Repository.DbContextRepository`1._set">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Create">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Create``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="TDerivedEntity"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnCreated(System.Data.Entity.Extensions.Repository.ActionEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnCanInsert(System.Data.Entity.Extensions.AccessEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnInserting(System.Data.Entity.Extensions.Repository.ActionEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Insert(`0)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnInserted(System.Data.Entity.Extensions.Repository.ActionEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnCanRead(System.Data.Entity.Extensions.AccessEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnFilter(System.Data.Entity.Extensions.Repository.FilterEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.GetByKey(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.GetByKeys(System.Object[])">
+            <summary>
+            
+            </summary>
+            <param name="keyValues"></param>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Get">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Get(System.Func{`0,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Get(System.Func{System.Collections.Generic.IEnumerable{`0},System.Linq.IOrderedEnumerable{`0}})">
+            <summary>
+            
+            </summary>
+            <param name="order"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Get(System.Func{`0,System.Boolean},System.Func{System.Collections.Generic.IEnumerable{`0},System.Linq.IOrderedEnumerable{`0}})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <param name="order"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnCanUpdate(System.Data.Entity.Extensions.AccessEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnUpdating(System.Data.Entity.Extensions.Repository.ActionEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Update(`0)">
+            <summary>
+            /
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnUpdated(System.Data.Entity.Extensions.Repository.ActionEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnCanDelete(System.Data.Entity.Extensions.AccessEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnDeleting(System.Data.Entity.Extensions.Repository.ActionEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Delete(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="keyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Delete(System.Object[])">
+            <summary>
+            
+            </summary>
+            <param name="keyValues"></param>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Delete(`0)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+            <exception cref="T:System.Data.Entity.Extensions.AccessException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.OnDeleted(System.Data.Entity.Extensions.Repository.ActionEventArgs{`0})">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.CheckAccess(System.Action{System.Data.Entity.Extensions.AccessEventArgs})">
+            <summary>
+            
+            </summary>
+            <param name="accessAction"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.Repository.DbContextRepository`1.FilterEntity(`0)">
+            <summary>
+            
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.DbContextRepository`1.UnitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Context">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Set">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Created">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.CanInsert">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Inserting">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Inserted">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.CanRead">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Filter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.CanUpdate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Updating">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Updated">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.CanDelete">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Deleting">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.Repository.DbContextRepository`1.Deleted">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.IDbContextUnitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWork.Commit">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWork.CanCommit">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWork.Committing">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWork.CommittingFailed">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.IUnitOfWork.Committed">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.UnitOfWork.IDbContextUnitOfWork.Context">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.#ctor(System.Data.Entity.DbContext)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.Dispose">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.Dispose(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.Finalize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork._context">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.OnCanCommit(System.Data.Entity.Extensions.AccessEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.OnCommitting(System.Data.Entity.Extensions.UnitOfWork.CommitEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.Commit">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.OnCommittingFailed(System.Data.Entity.Extensions.UnitOfWork.CommitEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.OnCommitted(System.Data.Entity.Extensions.UnitOfWork.CommitEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.CheckAccess(System.Action{System.Data.Entity.Extensions.AccessEventArgs})">
+            <summary>
+            
+            </summary>
+            <param name="accessAction"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.Context">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.CanCommit">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.Committing">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.CommittingFailed">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:System.Data.Entity.Extensions.UnitOfWork.DbContextUnitOfWork.Committed">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork.HttpContextKey">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork._factory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork._threads">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork.Get">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork.Save(System.Data.Entity.Extensions.UnitOfWork.IUnitOfWork)">
+            <summary>
+            
+            </summary>
+            <param name="unitOfWork"></param>
+        </member>
+        <member name="M:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork.Commit">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork.Factory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork.Threads">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Data.Entity.Extensions.UnitOfWork.UnitOfWork.Current">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
