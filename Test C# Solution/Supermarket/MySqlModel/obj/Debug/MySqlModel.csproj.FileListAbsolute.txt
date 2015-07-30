@@ -27,3 +27,18 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlMode
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Bson.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.dll.config
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Bson.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Bson.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.csprojResolveAssemblyReference.cache
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.pdb

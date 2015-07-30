@@ -1,4 +1,6 @@
-﻿namespace SupermarketChain.ConsoleClient
+﻿using System.Linq;
+
+namespace SupermarketChain.ConsoleClient
 {
     using System;
     using System.Activities.Statements;

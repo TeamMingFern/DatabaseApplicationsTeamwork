@@ -8,3 +8,13 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermark
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\Supermarket.Model.csprojResolveAssemblyReference.cache
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MS_SQL_Server.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MS_SQL_Server.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Bson.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Bson.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\Supermarket.Model.csprojResolveAssemblyReference.cache
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.pdb

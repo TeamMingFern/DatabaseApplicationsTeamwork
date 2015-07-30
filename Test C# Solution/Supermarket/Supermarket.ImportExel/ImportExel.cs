@@ -26,15 +26,6 @@ namespace Supermarket.ImportExel
         /// Initialize the filepath to the zipped file or use the defaul file path.
         /// </summary>
         /// <param name="filepath">string - The path to the file</param>
-        /// 
-        /// 
-        //public static void Run(string filePath = null)
-        //{
-        //    var importExelFiles = new ImportExel();
-        //    var context = new SupermarketContext();
-        //    importExelFiles.LoadExelReports(context);
-        //}
-
         public ImportExel(string filepath = null)
         {
             if (filepath != null)
@@ -163,6 +154,11 @@ namespace Supermarket.ImportExel
                     IsDeleted = false
                 });
                 context.SaveChanges();
+                Console.WriteLine("Supermarket: {0} added!", marketName);
+            }
+            else
+            {
+                Console.WriteLine("Supermarket: {0} existed!",marketName);
             }
         }
 
@@ -209,6 +205,11 @@ namespace Supermarket.ImportExel
                     Price = price
                 });
                 context.SaveChanges();
+                Console.WriteLine("Product: {0} added!", productName);
+            }
+            else
+            {
+                Console.WriteLine("Product: {0} existed!", productName);
             }
         }
 

@@ -73,3 +73,8 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermark
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Bson.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Bson.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Bson.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.xml

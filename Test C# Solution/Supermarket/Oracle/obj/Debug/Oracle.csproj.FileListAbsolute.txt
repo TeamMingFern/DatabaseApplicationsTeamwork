@@ -51,3 +51,20 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bi
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Bson.xml
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.pdb
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Bson.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Bson.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.xml
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
+D:\Projects\SoftUni Projects\SoftUni_DBApps\DBApps_TeamWork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
