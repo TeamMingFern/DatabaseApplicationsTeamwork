@@ -103,3 +103,30 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Super
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.csprojResolveAssemblyReference.cache
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Reports\obj\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\obj\Debug\Supermarket.Reports.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\obj\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.Reports\obj\Debug\Supermarket.Reports.pdb

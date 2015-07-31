@@ -26,15 +26,6 @@ namespace Supermarket.ImportExel
         /// Initialize the filepath to the zipped file or use the defaul file path.
         /// </summary>
         /// <param name="filepath">string - The path to the file</param>
-        /// 
-        /// 
-        //public static void Run(string filePath = null)
-        //{
-        //    var importExelFiles = new ImportExel();
-        //    var context = new SupermarketContext();
-        //    importExelFiles.LoadExelReports(context);
-        //}
-
         public ImportExel(string filepath = null)
         {
             if (filepath != null)
@@ -53,7 +44,6 @@ namespace Supermarket.ImportExel
         /// Load the zipped files with the excel reports.
         /// </summary>
         /// <param name="context">The context relationship with the Entity framework and the database</param>
-        /// 
         public void LoadExelReports(SupermarketContext context)
         {
             DirectoryInfo directoryInfo = new DirectoryInfo(this.FilePath);
@@ -79,7 +69,6 @@ namespace Supermarket.ImportExel
                         {
                             Directory.CreateDirectory(tempFolder);
                         }
-
                         //extract the readed file always into this "temporary" file
                         entry.ExtractToFile(Path.Combine(tempFolder, TempFileName), true);
                         DataTable excelData = this.ReadExcelData(string.Format("{0}{1}", tempFolder, TempFileName));
@@ -89,17 +78,17 @@ namespace Supermarket.ImportExel
                         this.CheckForExistingSupermarket(arrExelData[0].ItemArray, context);
 
                         //The loop starts from 2, because of the cell formatting in the excel file, if the loop starts form 0 it will iterate trough array full of empty strings
-                        for (int i = 2; i < arrExelData.Count-1; i++)
+                        for (int i = 2; i < arrExelData.Count - 1; i++)
                         {
-                            InsertIntoDataBase(arrExelData[i].ItemArray,context,currentReportDate,marketName);
+                            InsertIntoDataBase(arrExelData[i].ItemArray, context, currentReportDate, marketName);
                         }
                     }
                 }
             }
 
-            Console.WriteLine("Zip excel reports were imported.");
-        }
+            Console.WriteLine("Zip excel reports imported.");
 
+        }
         /// <summary>
         /// Insert the content of the excel files into the database.
         /// </summary>
@@ -107,18 +96,18 @@ namespace Supermarket.ImportExel
         /// <param name="context">the Entity Framework connection to the database</param>
         /// <param name="reportDate">the date taken from the folder with the reports</param>
         /// <param name="supmarketName">the name of the supermarket</param>
-        private void InsertIntoDataBase(object[] rowData, SupermarketContext context,string reportDate, string supmarketName)
+        private void InsertIntoDataBase(object[] rowData, SupermarketContext context, string reportDate, string supmarketName)
         {
-        //    string[] inputNameType = rowData[0].ToString().Split();
-        //    string prodType = inputNameType[0];
-        //    string prodName = inputNameType[1];
+            //    string[] inputNameType = rowData[0].ToString().Split();
+            //    string prodType = inputNameType[0];
+            //    string prodName = inputNameType[1];
             string prodName = rowData[0].ToString();
             int quantity = int.Parse(rowData[1].ToString());
             float price = float.Parse(rowData[2].ToString());
             DateTime dateReport = DateTime.ParseExact(reportDate, "dd-MMM-yyyy", CultureInfo.InvariantCulture);
 
             //this.CheckProductType(prodType, context);
-            this.CheckProduct(prodName,price,context);
+            this.CheckProduct(prodName, price, context);
 
             var productId = context.Products.Where(p => p.ProductName == prodName).Select(p => p.Id).FirstOrDefault();
             var marketId = context.Supermarkets.Where(s => s.Name == supmarketName).Select(s => s.SupermarketId).FirstOrDefault();
@@ -140,10 +129,9 @@ namespace Supermarket.ImportExel
                     SupermarketId = marketId,
                     ProductId = productId,
                     Quantity = quantity,
-                    Price = (decimal) price,
+                    Price = (decimal)price,
                     SalesDate = dateReport
                 });
-
                 context.SaveChanges();
             }
         }
@@ -165,8 +153,12 @@ namespace Supermarket.ImportExel
                     Name = marketName,
                     IsDeleted = false
                 });
-
                 context.SaveChanges();
+                Console.WriteLine("Supermarket: {0} added!", marketName);
+            }
+            else
+            {
+                Console.WriteLine("Supermarket: {0} existed!", marketName);
             }
         }
 
@@ -189,7 +181,6 @@ namespace Supermarket.ImportExel
                     TypeName = prodTypeName
                 });
                 context.SaveChanges();
-
             }
         }
 
@@ -199,7 +190,7 @@ namespace Supermarket.ImportExel
         /// <param name="productName">the name to be checked</param>
         /// <param name="price">the price needed to be eventually created new product</param>
         /// <param name="context">the Entity Framework connection to the database</param>
-        private void CheckProduct(string productName,float price, SupermarketContext context)
+        private void CheckProduct(string productName, float price, SupermarketContext context)
         {
             var existProd = context.Products
              .Where(p => p.ProductName == productName)
@@ -213,8 +204,12 @@ namespace Supermarket.ImportExel
                     ProductName = productName,
                     Price = price
                 });
-
                 context.SaveChanges();
+                Console.WriteLine("Product: {0} added!", productName);
+            }
+            else
+            {
+                Console.WriteLine("Product: {0} existed!", productName);
             }
         }
 
@@ -254,3 +249,4 @@ namespace Supermarket.ImportExel
         }
     }
 }
+

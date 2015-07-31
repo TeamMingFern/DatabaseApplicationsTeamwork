@@ -24,7 +24,7 @@
                   " 1. Replicate data from Oracle Database into MsSql Database\n" +
                   " 2. Load Zip Excel Reports to MsSql Database\n" +
                   " 3. Generate Pdf Sales report\n" +
-                  " 4. Generate XML Sales by Vendor from given date range\n" +
+                  " 4. Generate XML Sales by Vendor report\n" +
                   " 5. Generate JSON reports in given date range and load them into MongoDB\n" +
                   " 6. Load Xml Vendors Expenses Report into MsSql Database\n" +
                   " 7. Load data from MsSql to MySql\n" +
@@ -78,7 +78,7 @@ ___________                        _____  .__                 ___________
                             MsSqlReplicationEngine.ReplicateMssqlToMySql();
                             break;
                         case 8:
-                            var data = SqLiteManager.GetFinancialReportData();
+                            var data = SqLiteFactory.GetFinancialReportData();
                             FinancialReportGenerator.GenerateFinancialReport(data, @"..\..\..\..\Reports\");
                             break;
                         case 9: 

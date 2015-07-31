@@ -86,7 +86,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="FinancialReport.cs" />
-    <Compile Include="SqLiteManager.cs" />
+    <Compile Include="SqLiteFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQLiteContext.Context.cs">
       <AutoGen>True</AutoGen>

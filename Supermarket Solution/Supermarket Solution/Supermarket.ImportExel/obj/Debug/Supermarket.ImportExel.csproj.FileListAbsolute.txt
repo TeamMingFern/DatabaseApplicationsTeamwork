@@ -92,3 +92,22 @@ C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Super
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
 C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\Hprose.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ImportExel\obj\Debug\Supermarket.ImportExel.pdb

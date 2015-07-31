@@ -58,9 +58,9 @@ namespace SupermarketChain.ConsoleClient.Engines
                 {
                     var productName = product.PRODUCTNAME;
                     var price = product.PRICE;
-                    var vendorId = MsSqlManager.GetVendorIdByName(product.VENDORNAME);
-                    var measureId = MsSqlManager.GetMeasureIdByName(product.MEASURENAME);
-                    var typeId = MsSqlManager.GetTypeIdByName(product.TYPENAME);
+                    var vendorId = MsSqlFactory.GetVendorIdByName(product.VENDORNAME);
+                    var measureId = MsSqlFactory.GetMeasureIdByName(product.MEASURENAME);
+                    var typeId = MsSqlFactory.GetTypeIdByName(product.TYPENAME);
 
                     try
                     {

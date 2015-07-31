@@ -71,7 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="MsSqlManager.cs" />
+    <Compile Include="MsSqlFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SupermarketContext.cs" />
   </ItemGroup>
