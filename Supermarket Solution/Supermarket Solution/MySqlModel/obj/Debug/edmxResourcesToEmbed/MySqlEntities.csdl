@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MySqlEntities" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="measure">
+    <Key>
+      <PropertyRef Name="measureId" />
+    </Key>
+    <Property Name="measureId" Type="Int32" Nullable="false" />
+    <Property Name="measureName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.products_ibfk_2" FromRole="measures" ToRole="products" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="productId" />
+    </Key>
+    <Property Name="productId" Type="Int32" Nullable="false" />
+    <Property Name="productName" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="vendorId" Type="Int32" Nullable="false" />
+    <Property Name="measureId" Type="Int32" Nullable="false" />
+    <Property Name="productTypeId" Type="Int32" Nullable="false" />
+    <Property Name="productPrice" Type="Decimal" Nullable="false" />
+    <NavigationProperty Name="measure" Relationship="Self.products_ibfk_2" FromRole="products" ToRole="measures" />
+    <NavigationProperty Name="vendor" Relationship="Self.products_ibfk_1" FromRole="products" ToRole="vendors" />
+    <NavigationProperty Name="sales" Relationship="Self.sales_ibfk_2" FromRole="products" ToRole="sales" />
+  </EntityType>
+  <EntityType Name="producttype">
+    <Key>
+      <PropertyRef Name="typeId" />
+    </Key>
+    <Property Name="typeId" Type="Int32" Nullable="false" />
+    <Property Name="typeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sale">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="saledOn" Type="DateTime" Nullable="false" />
+    <Property Name="supermarketId" Type="Int32" Nullable="false" />
+    <Property Name="productId" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <Property Name="price" Type="Decimal" Nullable="false" />
+    <NavigationProperty Name="product" Relationship="Self.sales_ibfk_2" FromRole="sales" ToRole="products" />
+    <NavigationProperty Name="supermarket" Relationship="Self.sales_ibfk_1" FromRole="sales" ToRole="supermarkets" />
+  </EntityType>
+  <EntityType Name="supermarket">
+    <Key>
+      <PropertyRef Name="supermarketId" />
+    </Key>
+    <Property Name="supermarketId" Type="Int32" Nullable="false" />
+    <Property Name="supermarketName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="sales" Relationship="Self.sales_ibfk_1" FromRole="supermarkets" ToRole="sales" />
+  </EntityType>
+  <EntityType Name="vendor_expenses">
+    <Key>
+      <PropertyRef Name="vendorId" />
+      <PropertyRef Name="expenseDate" />
+    </Key>
+    <Property Name="vendorId" Type="Int32" Nullable="false" />
+    <Property Name="expenseDate" Type="DateTime" Nullable="false" />
+    <Property Name="total" Type="Decimal" Nullable="false" />
+    <NavigationProperty Name="vendor" Relationship="Self.vendor_expenses_ibfk_1" FromRole="vendor_expenses" ToRole="vendors" />
+  </EntityType>
+  <EntityType Name="vendor">
+    <Key>
+      <PropertyRef Name="vendorId" />
+    </Key>
+    <Property Name="vendorId" Type="Int32" Nullable="false" />
+    <Property Name="vendorName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.products_ibfk_1" FromRole="vendors" ToRole="products" />
+    <NavigationProperty Name="vendor_expenses" Relationship="Self.vendor_expenses_ibfk_1" FromRole="vendors" ToRole="vendor_expenses" />
+  </EntityType>
+  <Association Name="products_ibfk_2">
+    <End Role="measures" Type="Self.measure" Multiplicity="1" />
+    <End Role="products" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="measures">
+        <PropertyRef Name="measureId" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="measureId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="products_ibfk_1">
+    <End Role="vendors" Type="Self.vendor" Multiplicity="1" />
+    <End Role="products" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vendors">
+        <PropertyRef Name="vendorId" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="vendorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="sales_ibfk_2">
+    <End Role="products" Type="Self.product" Multiplicity="1" />
+    <End Role="sales" Type="Self.sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="productId" />
+      </Principal>
+      <Dependent Role="sales">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="sales_ibfk_1">
+    <End Role="supermarkets" Type="Self.supermarket" Multiplicity="1" />
+    <End Role="sales" Type="Self.sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="supermarkets">
+        <PropertyRef Name="supermarketId" />
+      </Principal>
+      <Dependent Role="sales">
+        <PropertyRef Name="supermarketId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="vendor_expenses_ibfk_1">
+    <End Role="vendors" Type="Self.vendor" Multiplicity="1" />
+    <End Role="vendor_expenses" Type="Self.vendor_expenses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vendors">
+        <PropertyRef Name="vendorId" />
+      </Principal>
+      <Dependent Role="vendor_expenses">
+        <PropertyRef Name="vendorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="marketsystemEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="measures" EntityType="Self.measure" />
+    <EntitySet Name="products" EntityType="Self.product" />
+    <EntitySet Name="producttypes" EntityType="Self.producttype" />
+    <EntitySet Name="sales" EntityType="Self.sale" />
+    <EntitySet Name="supermarkets" EntityType="Self.supermarket" />
+    <EntitySet Name="vendor_expenses" EntityType="Self.vendor_expenses" />
+    <EntitySet Name="vendors" EntityType="Self.vendor" />
+    <AssociationSet Name="products_ibfk_2" Association="Self.products_ibfk_2">
+      <End Role="measures" EntitySet="measures" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="products_ibfk_1" Association="Self.products_ibfk_1">
+      <End Role="vendors" EntitySet="vendors" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="sales_ibfk_2" Association="Self.sales_ibfk_2">
+      <End Role="products" EntitySet="products" />
+      <End Role="sales" EntitySet="sales" />
+    </AssociationSet>
+    <AssociationSet Name="sales_ibfk_1" Association="Self.sales_ibfk_1">
+      <End Role="supermarkets" EntitySet="supermarkets" />
+      <End Role="sales" EntitySet="sales" />
+    </AssociationSet>
+    <AssociationSet Name="vendor_expenses_ibfk_1" Association="Self.vendor_expenses_ibfk_1">
+      <End Role="vendors" EntitySet="vendors" />
+      <End Role="vendor_expenses" EntitySet="vendor_expenses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

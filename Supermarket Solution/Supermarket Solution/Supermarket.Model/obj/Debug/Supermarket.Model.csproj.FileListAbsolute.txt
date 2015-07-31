@@ -1,0 +1,19 @@
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\obj\Debug\Supermarket.Model.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.Model\obj\Debug\MS_SQL_Server.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="37a9cb52502e43c3a1af37602ff895cc" Name="Diagram1">
+        <EntityTypeShape EntityType="MySqlEntities.measure" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MySqlEntities.product" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MySqlEntities.producttype" Width="1.5" PointX="5.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MySqlEntities.sale" Width="1.5" PointX="5.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MySqlEntities.supermarket" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MySqlEntities.vendor_expenses" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MySqlEntities.vendor" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <AssociationConnector Association="MySqlEntities.products_ibfk_2" ManuallyRouted="false" />
+        <AssociationConnector Association="MySqlEntities.products_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="MySqlEntities.sales_ibfk_2" ManuallyRouted="false" />
+        <AssociationConnector Association="MySqlEntities.sales_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="MySqlEntities.vendor_expenses_ibfk_1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

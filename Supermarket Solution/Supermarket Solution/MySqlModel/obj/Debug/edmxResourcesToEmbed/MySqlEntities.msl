@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MySqlEntitiesStoreContainer" CdmEntityContainer="marketsystemEntities">
+    <EntitySetMapping Name="measures">
+      <EntityTypeMapping TypeName="MySqlEntities.measure">
+        <MappingFragment StoreEntitySet="measures">
+          <ScalarProperty Name="measureId" ColumnName="measureId" />
+          <ScalarProperty Name="measureName" ColumnName="measureName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="MySqlEntities.product">
+        <MappingFragment StoreEntitySet="products">
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="productName" ColumnName="productName" />
+          <ScalarProperty Name="vendorId" ColumnName="vendorId" />
+          <ScalarProperty Name="measureId" ColumnName="measureId" />
+          <ScalarProperty Name="productTypeId" ColumnName="productTypeId" />
+          <ScalarProperty Name="productPrice" ColumnName="productPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="producttypes">
+      <EntityTypeMapping TypeName="MySqlEntities.producttype">
+        <MappingFragment StoreEntitySet="producttypes">
+          <ScalarProperty Name="typeId" ColumnName="typeId" />
+          <ScalarProperty Name="typeName" ColumnName="typeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sales">
+      <EntityTypeMapping TypeName="MySqlEntities.sale">
+        <MappingFragment StoreEntitySet="sales">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="saledOn" ColumnName="saledOn" />
+          <ScalarProperty Name="supermarketId" ColumnName="supermarketId" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="supermarkets">
+      <EntityTypeMapping TypeName="MySqlEntities.supermarket">
+        <MappingFragment StoreEntitySet="supermarkets">
+          <ScalarProperty Name="supermarketId" ColumnName="supermarketId" />
+          <ScalarProperty Name="supermarketName" ColumnName="supermarketName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vendor_expenses">
+      <EntityTypeMapping TypeName="MySqlEntities.vendor_expenses">
+        <MappingFragment StoreEntitySet="vendor_expenses">
+          <ScalarProperty Name="vendorId" ColumnName="vendorId" />
+          <ScalarProperty Name="expenseDate" ColumnName="expenseDate" />
+          <ScalarProperty Name="total" ColumnName="total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vendors">
+      <EntityTypeMapping TypeName="MySqlEntities.vendor">
+        <MappingFragment StoreEntitySet="vendors">
+          <ScalarProperty Name="vendorId" ColumnName="vendorId" />
+          <ScalarProperty Name="vendorName" ColumnName="vendorName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,28 @@
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.dll.config
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.dll.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\MySqlModel\obj\Debug\MySqlModel.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OracleModelStoreContainer" CdmEntityContainer="OracleEntities">
+    <EntitySetMapping Name="MEASURES">
+      <EntityTypeMapping TypeName="OracleModel.MEASURE">
+        <MappingFragment StoreEntitySet="MEASURES">
+          <ScalarProperty Name="MEASURE_ID" ColumnName="MEASURE_ID" />
+          <ScalarProperty Name="MEASURENAME" ColumnName="MEASURENAME" />
+          <ScalarProperty Name="ISCOPIED" ColumnName="ISCOPIED" />
+          <ScalarProperty Name="ISDELETED" ColumnName="ISDELETED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCTS">
+      <EntityTypeMapping TypeName="OracleModel.PRODUCT">
+        <MappingFragment StoreEntitySet="PRODUCTS">
+          <ScalarProperty Name="PRODUCT_ID" ColumnName="PRODUCT_ID" />
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="PRODUCTNAME" ColumnName="PRODUCTNAME" />
+          <ScalarProperty Name="MEASURE_ID" ColumnName="MEASURE_ID" />
+          <ScalarProperty Name="TYPE_ID" ColumnName="TYPE_ID" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="ISCOPIED" ColumnName="ISCOPIED" />
+          <ScalarProperty Name="ISDELETED" ColumnName="ISDELETED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCTSTYPES">
+      <EntityTypeMapping TypeName="OracleModel.PRODUCTSTYPE">
+        <MappingFragment StoreEntitySet="PRODUCTSTYPES">
+          <ScalarProperty Name="TYPE_ID" ColumnName="TYPE_ID" />
+          <ScalarProperty Name="TYPENAME" ColumnName="TYPENAME" />
+          <ScalarProperty Name="ISCOPIED" ColumnName="ISCOPIED" />
+          <ScalarProperty Name="ISDELETED" ColumnName="ISDELETED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VENDORS">
+      <EntityTypeMapping TypeName="OracleModel.VENDOR">
+        <MappingFragment StoreEntitySet="VENDORS">
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="VENDORNAME" ColumnName="VENDORNAME" />
+          <ScalarProperty Name="ISCOPIED" ColumnName="ISCOPIED" />
+          <ScalarProperty Name="ISDELETED" ColumnName="ISDELETED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="MEASURES_RTN_RECORDSET" FunctionName="OracleModel.Store.MEASURES_RTN_RECORDSET" />
+    <FunctionImportMapping FunctionImportName="PRODUCTSTYPES_RTN_RECORDSET" FunctionName="OracleModel.Store.PRODUCTSTYPES_RTN_RECORDSET" />
+    <FunctionImportMapping FunctionImportName="PRODUCTS_RTN_RECORDSET" FunctionName="OracleModel.Store.PRODUCTS_RTN_RECORDSET" />
+    <FunctionImportMapping FunctionImportName="VENDOR_RTN_RECORDSET" FunctionName="OracleModel.Store.VENDOR_RTN_RECORDSET" />
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,120 @@
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\obj\Debug\Supermarket.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\itextsharp.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\itextsharp.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Supermarket.ConsoleClient\obj\Debug\Supermarket.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\obj\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\SupermarketChain.ConsoleClient.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MS_SQL_Server.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Supermarket.Data.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Supermarket.ImportExel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Supermarket.Reports.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\itextsharp.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MS_SQL_Server.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Supermarket.Data.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Supermarket.ImportExel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\Supermarket.Reports.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\Supermarket.ConsoleClient\obj\Debug\Supermarket.ConsoleClient.csprojResolveAssemblyReference.cache

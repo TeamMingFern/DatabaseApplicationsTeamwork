@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SupermarketModelStoreContainer" CdmEntityContainer="SQLitetEntities">
+    <EntitySetMapping Name="TaxInformations">
+      <EntityTypeMapping TypeName="SupermarketModel.TaxInformation">
+        <MappingFragment StoreEntitySet="TaxInformation">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Tax" ColumnName="Tax" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

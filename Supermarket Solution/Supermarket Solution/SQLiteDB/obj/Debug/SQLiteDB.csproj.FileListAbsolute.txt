@@ -1,0 +1,54 @@
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\SQLiteDB.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\obj\Debug\SQLiteDB.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\obj\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\SQLiteDB\obj\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\SQLiteDB.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\obj\Debug\SQLiteDB.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\obj\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\SQLiteDB\obj\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\SQLiteDB.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\SQLiteDB.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\MySql.Data.Entity.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\MySqlModel.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\MySqlModel.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\obj\Debug\SQLiteDB.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\obj\Debug\SQLiteDB.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket Solution\SQLiteDB\obj\Debug\SQLiteDB.pdb

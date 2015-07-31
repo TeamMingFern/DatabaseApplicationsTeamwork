@@ -1,0 +1,3 @@
+Install	 sqlite-netFx451-setup-bundle-x86-2013-1.0.97.0.exe
+
+Progect console:  Install-Package System.Data.SQLite 

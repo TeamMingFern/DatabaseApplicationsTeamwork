@@ -1,0 +1,69 @@
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.pdb
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
+C:\Users\radko\Desktop\DBTeamwork_Working_Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\obj\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\obj\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution_1\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.pdb
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
+E:\Git\DatabaseApplicationsTeamwork\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Test C# Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\Oracle.exe.config
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\Oracle.pdb
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\MongoDB.Bson.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\MongoDB.Bson.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\bin\Debug\MongoDB.Driver.xml
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\obj\Debug\Oracle.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\obj\Debug\Oracle.exe
+C:\Users\toshiba\Desktop\DB TEamWork Copy\Supermarket Solution\Supermarket\Oracle\obj\Debug\Oracle.pdb
